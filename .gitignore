@@ -1,0 +1,32 @@
+# Environment and secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Python & caches
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Heavy local binaries, runtimes & models (documented in MODELS_AND_BINARIES_MANIFEST.md)
+models/
+DockerWSL/
+llama/
+ghidra/
+jdk21/
+jdk25/
+harbor_cache/
+
+# Runtime jobs and logs
+jobs/
+frontierswe_jobs/
+
+# Windows / OS artifacts
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/

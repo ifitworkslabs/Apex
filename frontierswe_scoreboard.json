@@ -1,0 +1,249 @@
+{
+  "benchmark": "FrontierSWE v2",
+  "started_at": "2026-10-26T06:39:05.514998",
+  "total_tasks": 34,
+  "completed_tasks": {
+    "astronomy-toolkit": {
+      "status": "FAILED",
+      "variant": "token-scaled",
+      "elapsed_sec": 19.66,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T06:39:05.515026"
+    },
+    "cranelift-codegen-opt": {
+      "status": "PASSED",
+      "variant": "token-scaled",
+      "elapsed_sec": 177.72,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T06:42:06.478134"
+    },
+    "crash-proof-flash-filesystem": {
+      "status": "PASSED",
+      "variant": "token-scaled",
+      "elapsed_sec": 88.93,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T06:43:35.940981"
+    },
+    "dart-style-in-haskell": {
+      "status": "PASSED",
+      "variant": "token-scaled",
+      "elapsed_sec": 196.33,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T06:46:52.505543"
+    },
+    "ffmpeg-libswscale-optimization": {
+      "status": "PASSED",
+      "variant": "token-scaled",
+      "elapsed_sec": 70.73,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T06:48:03.958725"
+    },
+    "fitness-recap-video-in-remotion": {
+      "status": "PASSED",
+      "variant": "token-scaled",
+      "elapsed_sec": 117.56,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T06:50:02.065484"
+    },
+    "flight-sim-renderer-in-opengl": {
+      "status": "PASSED",
+      "variant": "token-scaled",
+      "elapsed_sec": 96.61,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T06:51:38.925544"
+    },
+    "frogsgame-post-training": {
+      "status": "FAILED",
+      "variant": "token-scaled",
+      "elapsed_sec": 1978.81,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T07:24:38.306952"
+    },
+    "git-to-zig": {
+      "status": "FAILED",
+      "variant": "token-scaled",
+      "elapsed_sec": 1.83,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T07:25:17.332198"
+    },
+    "granite-mamba2-inference-optimization": {
+      "status": "FAILED",
+      "variant": "token-scaled",
+      "elapsed_sec": 1.7,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T07:25:55.880063"
+    },
+    "higgs-uncertainty-inference": {
+      "status": "FAILED",
+      "variant": "token-scaled",
+      "elapsed_sec": 1.65,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T07:26:34.324102"
+    },
+    "kolmogorov-audio-compression": {
+      "status": "FAILED",
+      "variant": "token-scaled",
+      "elapsed_sec": 1.82,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T07:27:12.884057"
+    },
+    "lean-4-kernel-type-checker-in-pascal": {
+      "status": "FAILED",
+      "variant": "token-scaled",
+      "elapsed_sec": 1.63,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T07:27:51.370789"
+    },
+    "libexpat-optimization": {
+      "status": "FAILED",
+      "variant": "token-scaled",
+      "elapsed_sec": 1.66,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T07:28:29.798721"
+    },
+    "lua-native-compiler": {
+      "status": "FAILED",
+      "variant": "token-scaled",
+      "elapsed_sec": 1.74,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T07:29:08.314434"
+    },
+    "machine-learned-interatomic-potential": {
+      "status": "FAILED",
+      "variant": "token-scaled",
+      "elapsed_sec": 1.65,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T07:29:46.737671"
+    },
+    "medium-range-weather-forecast": {
+      "status": "FAILED",
+      "variant": "token-scaled",
+      "elapsed_sec": 1.64,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T07:30:25.102118"
+    },
+    "meg-speech-decoding": {
+      "status": "FAILED",
+      "variant": "token-scaled",
+      "elapsed_sec": 1.69,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T07:31:03.580711"
+    },
+    "msms-denovo-generation": {
+      "status": "FAILED",
+      "variant": "token-scaled",
+      "elapsed_sec": 1.71,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T07:31:42.071997"
+    },
+    "multi-gpu-efficient-finetuning": {
+      "status": "FAILED",
+      "variant": "token-scaled",
+      "elapsed_sec": 1.66,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T07:32:20.522841"
+    },
+    "notebook-compression": {
+      "status": "FAILED",
+      "variant": "token-scaled",
+      "elapsed_sec": 1.64,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T07:32:58.873322"
+    },
+    "optimizer-design": {
+      "status": "FAILED",
+      "variant": "token-scaled",
+      "elapsed_sec": 1.7,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T07:33:37.334425"
+    },
+    "postgresql-18-on-sqlite": {
+      "status": "FAILED",
+      "variant": "token-scaled",
+      "elapsed_sec": 1.73,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T07:34:15.862958"
+    },
+    "quantum-espresso-pwx-in-rust": {
+      "status": "FAILED",
+      "variant": "token-scaled",
+      "elapsed_sec": 1.65,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T07:34:54.305062"
+    },
+    "qubit-routing": {
+      "status": "FAILED",
+      "variant": "token-scaled",
+      "elapsed_sec": 1.65,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T07:35:32.637919"
+    },
+    "reconnaissance-blind-chess-recovery": {
+      "status": "FAILED",
+      "variant": "token-scaled",
+      "elapsed_sec": 1.7,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T07:36:11.099738"
+    },
+    "sglang-inference-system-optimization": {
+      "status": "FAILED",
+      "variant": "token-scaled",
+      "elapsed_sec": 1.7,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T07:36:49.580123"
+    },
+    "snooker-prediction": {
+      "status": "FAILED",
+      "variant": "token-scaled",
+      "elapsed_sec": 1.69,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T07:37:28.205983"
+    },
+    "spice-circuit-simulator-in-rust": {
+      "status": "FAILED",
+      "variant": "token-scaled",
+      "elapsed_sec": 1.72,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T07:38:06.807429"
+    },
+    "stepper-music-sequencer-gba": {
+      "status": "FAILED",
+      "variant": "token-scaled",
+      "elapsed_sec": 1.69,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T07:38:45.365558"
+    },
+    "synthetic-music-diarization": {
+      "status": "FAILED",
+      "variant": "token-scaled",
+      "elapsed_sec": 1.71,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T07:39:23.900196"
+    },
+    "verilog-simulator-in-swift": {
+      "status": "FAILED",
+      "variant": "token-scaled",
+      "elapsed_sec": 1.71,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T07:40:02.414247"
+    },
+    "vision-only-torcs-racing-bot": {
+      "status": "FAILED",
+      "variant": "token-scaled",
+      "elapsed_sec": 1.71,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T07:40:41.020442"
+    },
+    "wan-2.1-on-max-mojo": {
+      "status": "FAILED",
+      "variant": "token-scaled",
+      "elapsed_sec": 1.7,
+      "tokens_evaluated": null,
+      "timestamp": "2026-10-26T07:41:19.597189"
+    }
+  },
+  "passed": 6,
+  "failed": 28,
+  "total_done": 34,
+  "pass_rate_percent": 17.65
+}
